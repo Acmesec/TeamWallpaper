@@ -8,14 +8,6 @@
 [手机版(Phone)](https://github.com/Acmesec/TeamWallpaper/releases/download/1.0.0/phone.7z)
 
 # 壁纸样式(Preview)
-### 黑色<black>
-![img](mstsec.png)
+![img](PC_Preview.jpg)
 
-### 灰色<gray>
-![img](mstsec_gray.png)
-  
-### 粉色<pink>
-![img](mstsec_pink.png)
-  
-### 绿色<green>
-![img](mstsec_green.png)
+![img](Phone_Preview.jpg)
